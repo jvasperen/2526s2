@@ -40,7 +40,7 @@ studentfiles/
 bko/
 
 # Solution files (default private)
-*_SOLVED.ipynb
-**/*_SOLVED.ipynb
+# *_SOLVED.ipynb
+# **/*_SOLVED.ipynb
 notes.md
 *uiz.ipynb
