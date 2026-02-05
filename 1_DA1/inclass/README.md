@@ -2,12 +2,6 @@
 
 This folder contains organized, beginner-friendly Jupyter notebooks for teaching Python fundamentals to Communication Science students with **zero prior programming experience**.
 
-## 📚 Session Overview
-
-Each session has two versions:
-- **`_STUDENT.ipynb`**: Clean version for projecting and live coding with students
-- **`_SOLVED.ipynb`**: Complete with solutions, teaching notes, and tips for instructor reference
-
 ## 📖 Session Structure
 
 ### Session 1: Getting Started & Data Types
