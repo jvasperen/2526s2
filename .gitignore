@@ -38,3 +38,7 @@ slides/
 inclass.ipynb
 studentfiles/
 bko/
+
+# Solution files (default private)
+*_SOLVED.ipynb
+**/*_SOLVED.ipynb
